@@ -1,2 +1,3 @@
 # mamepakage
-retro game mamepakage
+Retro game mamepakage sample.
+LGwebOS Hosted server. 
